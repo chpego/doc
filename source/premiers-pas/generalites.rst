@@ -22,7 +22,7 @@ GLPI fonctionne également sur mobile ; il est globalement compatible avec les n
 Comment se connecter
 --------------------
 
-Démarrer le navigateur sur la page d'accueil de GLPI `https://{adresse_glpi}/ <https://{adresse_glpi}>`_).
+Démarrer le navigateur sur la page d'accueil de GLPI (`https://{adresse_glpi}/ <https://{adresse_glpi}>`_).
 
 L'accès aux fonctionnalités complètes de l'application nécessite une authentification. Un utilisateur non authentifié peut éventuellement accéder à certaines fonctionnalités si GLPI a été :ref:`configuré pour l'autoriser <configuration-assistance>` :
 
